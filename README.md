@@ -1,6 +1,6 @@
 # Animated Puppy
 
-This project is a delightful animation of a puppy created using HTML and CSS. The animated puppy consists of various elements such as its body, head, ears, eyes, nose, tail, and legs, all of which come together to create a cute and lively visual.
+This project is a delightful animation of a puppy created using HTML and CSS. The animated puppy consists of various elements such as its body, head, ears, eyes, nose, tail, and legs, all of which come together to create a cute and lively visual .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Animated-Puppy/assets/59678435/bee94c8f-454a-4dd4-92bc-0e91247d44e2)
